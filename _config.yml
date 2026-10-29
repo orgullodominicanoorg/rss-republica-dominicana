@@ -1,0 +1,7 @@
+# GitHub Pages usa este tema oficial para convertir index.md en una página
+# sencilla y legible sin depender de código JavaScript ni servicios externos.
+theme: jekyll-theme-minimal
+title: RSS de República Dominicana
+description: Directorio abierto de feeds dominicanos verificados técnicamente.
+lang: es
+
