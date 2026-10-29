@@ -43,4 +43,3 @@ funcionar después de la fecha indicada.
 Directorio mantenido por
 [Orgullo Dominicano](https://orgullodominicano.org/). Si detecta una URL rota,
 puede abrir una incidencia en el repositorio para que quede documentada.
-
