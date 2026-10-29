@@ -36,4 +36,3 @@ Este recurso es mantenido por
 [Orgullo Dominicano](https://orgullodominicano.org/), periódico digital sobre
 República Dominicana y su diáspora. Las correcciones técnicas pueden proponerse
 mediante los *issues* de este repositorio.
-
