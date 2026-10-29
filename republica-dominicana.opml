@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Este archivo OPML permite importar toda la colección en un lector RSS. Cada
+entrada conserva tanto la página del medio como la URL técnica de su feed.
+-->
+<opml version="2.0">
+  <head>
+    <title>RSS de República Dominicana</title>
+    <dateModified>Thu, 29 Oct 2026 23:30:00 GMT</dateModified>
+    <ownerName>Orgullo Dominicano</ownerName>
+  </head>
+  <body>
+    <outline text="Noticias de República Dominicana" title="Noticias de República Dominicana">
+      <outline type="rss" text="Orgullo Dominicano" title="Orgullo Dominicano" htmlUrl="https://orgullodominicano.org/" xmlUrl="https://orgullodominicano.org/feed/" />
+      <outline type="rss" text="Diario Libre — Portada" title="Diario Libre — Portada" htmlUrl="https://www.diariolibre.com/" xmlUrl="https://www.diariolibre.com/rss/portada.xml" />
+      <outline type="rss" text="El Nacional" title="El Nacional" htmlUrl="https://elnacional.com.do/" xmlUrl="https://elnacional.com.do/rss/home.xml" />
+      <outline type="rss" text="El Día" title="El Día" htmlUrl="https://eldia.com.do/" xmlUrl="https://eldia.com.do/feed/" />
+      <outline type="rss" text="Noticias SIN" title="Noticias SIN" htmlUrl="https://noticiassin.com/" xmlUrl="https://noticiassin.com/feed/" />
+      <outline type="rss" text="N Digital" title="N Digital" htmlUrl="https://n.com.do/" xmlUrl="https://n.com.do/feed/" />
+      <outline type="rss" text="Presidencia de la República Dominicana" title="Presidencia de la República Dominicana" htmlUrl="https://www.presidencia.gob.do/" xmlUrl="https://www.presidencia.gob.do/rss.xml" />
+      <outline type="rss" text="De Último Minuto" title="De Último Minuto" htmlUrl="https://deultimominuto.com/" xmlUrl="https://deultimominuto.com/feed/" />
+      <outline type="rss" text="RC Noticias" title="RC Noticias" htmlUrl="https://robertocavada.com/" xmlUrl="https://robertocavada.com/feed/" />
+      <outline type="rss" text="El Nuevo Diario" title="El Nuevo Diario" htmlUrl="https://elnuevodiario.com.do/" xmlUrl="https://elnuevodiario.com.do/feed/" />
+      <outline type="rss" text="Diario Salud" title="Diario Salud" htmlUrl="https://diariosalud.do/" xmlUrl="https://diariosalud.do/feed/" />
+      <outline type="rss" text="Revista Mercado" title="Revista Mercado" htmlUrl="https://revistamercado.do/" xmlUrl="https://revistamercado.do/feed/" />
+      <outline type="rss" text="Remolacha" title="Remolacha" htmlUrl="https://remolacha.net/" xmlUrl="https://remolacha.net/feed/" />
+      <outline type="rss" text="Proceso" title="Proceso" htmlUrl="https://proceso.com.do/" xmlUrl="https://proceso.com.do/feed/" />
+    </outline>
+  </body>
+</opml>
